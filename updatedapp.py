@@ -7,7 +7,7 @@ import json
 app = Flask(__name__)
 
 # Configure OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Conversation history
 conversation_history = []
